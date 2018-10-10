@@ -1,0 +1,20 @@
+{
+  "dependencies": {
+    "chalk": "^2.4.1",
+    "co": "^4.6.0",
+    "co-prompt": "^1.0.0",
+    "commander": "^2.19.0"
+  },
+  "name": "newapm",
+  "version": "1.0.3",
+  "description": "我的脚手架",
+  "bin": {
+    "scion": "bin/scion.js"
+  },
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "kantle",
+  "license": "ISC"
+}
