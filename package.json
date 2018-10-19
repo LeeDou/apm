@@ -6,10 +6,10 @@
     "commander": "^2.19.0"
   },
   "name": "newapm",
-  "version": "1.0.4",
+  "version": "1.0.7",
   "description": "我的脚手架",
   "bin": {
-    "apm": "bin/apm.js"
+    "apm": "bin/apm"
   },
   "main": "main.js",
   "scripts": {
